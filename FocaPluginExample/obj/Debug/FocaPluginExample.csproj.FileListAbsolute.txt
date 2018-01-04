@@ -1,0 +1,10 @@
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\bin\Debug\FocaPluginExample.dll.config
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\bin\Debug\FocaPluginExample.dll
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\bin\Debug\FocaPluginExample.pdb
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\bin\Debug\PluginsAPI.dll
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.FrmPluginExample.resources
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.Properties.Resources.resources
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.csproj.GenerateResource.Cache
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.csproj.CoreCompileInputs.cache
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.dll
+E:\FOCA\Plugin example\Proxy\FocaPluginExample\obj\Debug\FocaPluginExample.pdb
